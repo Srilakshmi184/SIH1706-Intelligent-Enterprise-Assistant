@@ -1,5 +1,5 @@
 # Hackathon-An-Intelligent-Enterprise-Assistant-for-public-sector-SIH-1706
-## By RABI BASKAR PRABURAJAN - https://github.com/RABI-7
+## By SRILAKSHMI BH - https://github.com/Srilakshmi184/SIH1706-Intelligent-Enterprise-Assistant.git
 
 ## Intelligent Enterprise Assistant
 An AI-powered virtual assistant designed to help the public sector work smarter. It automates tasks like document search, policy answering, leave requests, and helpdesk support — all through natural conversation.
